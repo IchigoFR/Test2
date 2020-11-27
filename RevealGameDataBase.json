@@ -132,7 +132,7 @@
     "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/nathan.png?raw=true"
   },
   {
-    "name": "Pac-man",
+    "name": "Pacman",
     "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/pac%20man.png?raw=true"
   },
   {
@@ -698,5 +698,101 @@
   {
     "name": "Zombie",
     "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Zombie.png?raw=true"
+  },
+  {
+    "name": "Arya",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Arya.png?raw=true"
+  },
+  {
+    "name": "Burns",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Burns.png?raw=true"
+  },
+  {
+    "name": "Deadpool",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Deadpool.png?raw=true"
+  },
+  {
+    "name": "Eleven",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Eleven.png?raw=true"
+  },
+  {
+    "name": "Gargamel",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Gargamel.png?raw=true"
+  },
+  {
+    "name": "Grimmjow",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Grimmjow.png?raw=true"
+  },
+  {
+    "name": "Gundam",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Gundam.png?raw=true"
+  },
+  {
+    "name": "Hautbois",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Hautbois.png?raw=true"
+  },
+  {
+    "name": "Homer",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Homer.png?raw=true"
+  },
+  {
+    "name": "Jonas",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Jonas.png?raw=true"
+  },
+  {
+    "name": "Jules Verne",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Jules%20Verne.png?raw=true"
+  },
+  {
+    "name": "Kiki",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Kiki.png?raw=true"
+  },
+  {
+    "name": "Konoha",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Konoha.png?raw=true"
+  },
+  {
+    "name": "Luffy",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Luffy.png?raw=true"
+  },
+  {
+    "name": "Marty Mcfly",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Marty%20Mcfly.png?raw=true"
+  },
+  {
+    "name": "Napoléon",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Napoléon.png?raw=true"
+  },
+  {
+    "name": "Phoenix",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Phoenix.png?raw=true"
+  },
+  {
+    "name": "Sacha",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Sacha.png?raw=true"
+  },
+  {
+    "name": "Schtroumpf",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Schtroumpf.png?raw=true"
+  },
+  {
+    "name": "Spirou",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Spirou.png?raw=true"
+  },
+  {
+    "name": "Stream Deck",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Stream%20Deck.png?raw=true"
+  },
+  {
+    "name": "The witcher",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/The%20witcher.png?raw=true"
+  },
+  {
+    "name": "Totoro",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Totoro.png?raw=true"
+  },
+  {
+    "name": "Patrick Sébastien",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Patrick%20Sébastien.png?raw=true"
   }
 ]
