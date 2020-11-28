@@ -1,5 +1,157 @@
 [
   {
+    "name": "Bison",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Bison.png?raw=true"
+  },
+  {
+    "name": "Blanka",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/blanka.png?raw=true"
+  },
+  {
+    "name": "Bowser",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/bowser.png?raw=true"
+  },
+  {
+    "name": "Broly",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/broly.png?raw=true"
+  },
+  {
+    "name": "Cell",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/cell.png?raw=true"
+  },
+  {
+    "name": "Chaozu",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/chaozu.png?raw=true"
+  },
+  {
+    "name": "Cloud",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/cloud.png?raw=true"
+  },
+  {
+    "name": "Creeper",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/creeper.png?raw=true"
+  },
+  {
+    "name": "Daenerys",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/daenerys.png?raw=true"
+  },
+  {
+    "name": "Dhalsim",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/dhalsim.png?raw=true"
+  },
+  {
+    "name": "Donatello",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/donatello.png?raw=true"
+  },
+  {
+    "name": "Enderman",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/enderman.png?raw=true"
+  },
+  {
+    "name": "Falcon",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/falcon.png?raw=true"
+  },
+  {
+    "name": "Fox",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/fox.png?raw=true"
+  },
+  {
+    "name": "Freddy",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/freddy.png?raw=true"
+  },
+  {
+    "name": "Freezer",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/freezer.png?raw=true"
+  },
+  {
+    "name": "Gambit",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/gambit.png?raw=true"
+  },
+  {
+    "name": "Gamora",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/gamora.png?raw=true"
+  },
+  {
+    "name": "Son Gohan",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/gohan.png?raw=true"
+  },
+  {
+    "name": "Son Goku",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/goku.png?raw=true"
+  },
+  {
+    "name": "Horizon",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/horizon.png?raw=true"
+  },
+  {
+    "name": "Ichigo",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/ichigo.png?raw=true"
+  },
+  {
+    "name": "Joel",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/joel.png?raw=true"
+  },
+  {
+    "name": "Kirby",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/kirby.png?raw=true"
+  },
+  {
+    "name": "Krillin",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/krillin.png?raw=true"
+  },
+  {
+    "name": "Legolas",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/legolas.png?raw=true"
+  },
+  {
+    "name": "Livaï",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/liva%C3%AF.png?raw=true"
+  },
+  {
+    "name": "Luigi",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/luigi.png?raw=true"
+  },
+  {
+    "name": "Mario",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/mario.png?raw=true"
+  },
+  {
+    "name": "Megaman",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/megaman.png?raw=true"
+  },
+  {
+    "name": "Mononoke",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/mononoke.png?raw=true"
+  },
+  {
+    "name": "Morty",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/morty.png?raw=true"
+  },
+  {
+    "name": "Nathan Drake",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/nathan.png?raw=true"
+  },
+  {
+    "name": "Pac man",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/pac%20man.png?raw=true"
+  },
+  {
+    "name": "Pikachu",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/pikachu.png?raw=true"
+  },
+  {
+    "name": "Rayman",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/rayman.png?raw=true"
+  },
+  {
+    "name": "Rick Grimes",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/rick.png?raw=true"
+  },
+  {
+    "name": "Sonic",
+    "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/sonic.png?raw=true"
+  },
+  {
     "name": "Suicune",
     "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Suicune.png?raw=true"
   },
@@ -642,7 +794,7 @@
   {
     "name": "Patrick Sébastien",
     "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Patrick%20Sébastien.png?raw=true"
-  },^
+  },
   {
     "name": "Aiden Pearce",
     "image": "https://github.com/IchigoFR/Test2/blob/IchigoFR-patch-1/Aidenpearce.png?raw=true"
